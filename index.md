@@ -10,7 +10,7 @@
 ---
 [Project Tip Calculator]
 <img src="images/Tippng.PNG?raw=true"/>
-
+<br>This is a calculator that the user puts in the total amount of their meal and the rate of the service and based off those it will calculate the tip to leave.<br>
 ---
 [Project Adventure Game]
 <img src="images/Midtermpng.PNG?raw=true"/>
