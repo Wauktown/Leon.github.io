@@ -14,7 +14,7 @@
 ---
 [Project Adventure Game]
 <img src="images/Midtermpng.PNG?raw=true"/>
-
+<br>This project design is that the player will go to different worlds and encounter some questions the game is a trivia game but with a Star Wars twist made in Visual Studios C#.<br>
 
 
 
