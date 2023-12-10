@@ -2,17 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
-[Project 1 Title](/sample_page)
+[Project First App]
 <img src="images/FirstApp.PNG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project Tip Calculator]
 <img src="images/Tippng.PNG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project Adventure Game]
 <img src="images/Midtermpng.PNG?raw=true"/>
 
 
