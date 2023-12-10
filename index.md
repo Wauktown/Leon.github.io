@@ -6,7 +6,7 @@
 
 [Project First App]
 <img src="images/FirstApp.PNG?raw=true"/>
-
+<br>This was my very first code in C# that introduced me to this new language and Visual Stuidos<br>
 ---
 [Project Tip Calculator]
 <img src="images/Tippng.PNG?raw=true"/>
