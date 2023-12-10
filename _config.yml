@@ -2,10 +2,9 @@ title: Christopher Leon # your name (or website title) here
 logo: "/images/thumbnail_IMG_0665.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <br>I am a current student at Columbia College Chicago learning some C# and Computer Art <br>
+  
+  <a href="https://www.linkedin.com/in/christopher-leon-b21243291/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
